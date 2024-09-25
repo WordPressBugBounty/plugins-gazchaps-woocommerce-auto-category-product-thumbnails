@@ -1,0 +1,1 @@
+# plugins-gazchaps-woocommerce-auto-category-product-thumbnails
