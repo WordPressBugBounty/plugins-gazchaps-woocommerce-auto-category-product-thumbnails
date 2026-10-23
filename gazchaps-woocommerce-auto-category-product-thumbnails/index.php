@@ -6,9 +6,9 @@
  * Author: Gareth 'GazChap' Griffiths
  * Author URI: https://www.gazchap.com/
  * Description: Automatically use a product thumbnail as a category thumbnail if no category thumbnail is set
- * Tested up to: 6.7.1
+ * Tested up to: 7.0.0
  * WC requires at least: 3.0.0
- * WC tested up to: 9.5.2
+ * WC tested up to: 10.7.0
  * Text Domain: gazchaps-woocommerce-auto-category-product-thumbnails
  * Domain Path: /lang
  * License: GNU General Public License v2.0
